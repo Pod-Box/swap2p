@@ -1,0 +1,12 @@
+[submodule "swap2p-contracts"]
+	path = swap2p-contracts
+	url = git@github.com:Pod-Box/swap2p-contracts.git
+[submodule "swap2p-backend"]
+	path = swap2p-backend
+	url = git@github.com:Pod-Box/swap2p-backend.git
+[submodule "swap2p-app"]
+	path = swap2p-app
+	url = git@github.com:Pod-Box/swap2p-app.git
+[submodule "swap2p-tg"]
+	path = swap2p-tg
+	url = git@github.com:Pod-Box/swap2p-tg.git
