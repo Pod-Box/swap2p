@@ -6,4 +6,4 @@ Escrow, which allows you to securely exchange erc-20 tokens. Using it you can op
 
 ## Diagram
 
-![swap2p](https://github.com/Pod-Box/swap2p/blob/main/swap2p_diagram.png)
+![swap2p](https://github.com/Pod-Box/swap2p/blob/main/swap2p.png)
